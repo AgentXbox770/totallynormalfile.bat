@@ -2,7 +2,7 @@
 a prank bat file. 
 
 ## to stop it:
-go to search bar then type task manager, and now close powershell and close all cmd window's.
+go to search bar then type task manager, and now end task wscript.exe and close all cmd window's.
 
 ## operating systems supported:
 Windows 11
