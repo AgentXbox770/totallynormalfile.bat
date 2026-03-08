@@ -1,5 +1,4 @@
-# totallynormalfile.bat
-a prank bat file. 
+# UltMa
 
 ## to stop it:
 go to search bar then type task manager, and now end task wscript.exe and close all cmd window's.
